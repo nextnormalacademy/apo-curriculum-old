@@ -1,9 +1,47 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Advanced Product Owner"
+    url: https://nextnormal.academy/certifications/advanced-product-owner/
+  - title: "nextnormal.academy"
+    url: https://nextnormal.academy/
+
+curriculum:
+  - title: Advanced<br/>Product Owner<br/>Curriculum
+    children:
+      - title: "Introduction"
+        url: /introduction/
+      - title: "Overview"
+        url: /overview/
+  - title: Learning Objectives
+    children:
+      - title: "Understanding Customers"
+        url: /understanding-customers/
+      - title: "Defining a Business Model"
+        url: /defining-a-business-model/
+      - title: "Satisfying Customer Needs"
+        url: /satisfying-customer-needs/
+      - title: "Measuring Value Creation"
+        url: /measuring-value-creation/
+      - title: "Understanding the Environment"
+        url: /understanding-the-environment/
+      - title: "Influencing the Environment"
+        url: /influencing-the-environment/
+      - title: "Draft a Plan"
+        url: /draft-a-plan/
+      - title: "Break Down the Results"
+        url: /break-down-the-results/
+      - title: "Describe the Solution"
+        url: /describe-the-solution/
+      - title: "Prioritize Development Work"
+        url: /prioritize-development-work/
+      - title: "Do and Deliver"
+        url: /do-and-deliver/
+      - title: "Managing Feedback Loops"
+        url: /managing-feedback-loops/
+  - title: Meta
+    children:
+      - title: "License"
+        url: /license/
+      - title: "Authors"
+        url: /authors/
+      - title: "Imprint"
+        url: /imprint/
