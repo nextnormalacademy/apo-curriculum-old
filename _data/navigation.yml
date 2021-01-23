@@ -9,8 +9,6 @@ curriculum:
     children:
       - title: "Introduction"
         url: /introduction/
-      - title: "Overview"
-        url: /overview/
   - title: Learning Objectives
     children:
       - title: "Understanding Customers"
