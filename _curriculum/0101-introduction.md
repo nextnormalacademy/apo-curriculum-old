@@ -1,6 +1,7 @@
 ---
 title: Introduction
 permalink: /introduction/
+toc: true
 ---
 
 This curriculum describes what participants can expect in the Advanced Product Owner training and what is part of the Advanced Product Owner certification exam.
