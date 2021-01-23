@@ -31,7 +31,7 @@ The curriculum includes the following learning objectives, which are described i
 * Break Down the Results
 * Describe the Solution
 * Prioritize Development Work
-* Do and Deliver
+* Build and Deliver
 * Feedback Loops
 
 The learning objectives are not mutually exclusive, due to the main goal.
