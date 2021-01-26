@@ -11,3 +11,9 @@ permalink: /measuring-value-creation/
 ## Outcome
 
 * [Value Model](https://manual.advancedproductowner.com/value-model/)
+
+## Competence Level 1
+
+## Competence Level 2
+
+## Competence Level 3

@@ -12,3 +12,9 @@ permalink: /satisfying-customer-needs/
 ## Outcome
 
 * [Value Proposition](https://manual.advancedproductowner.com/value-proposition/)
+
+## Competence Level 1
+
+## Competence Level 2
+
+## Competence Level 3

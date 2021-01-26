@@ -13,3 +13,9 @@ permalink: /describe-the-solution/
 # Outcome
 
 * [Story Map](https://manual.advancedproductowner.com/story-map/)
+
+## Competence Level 1
+
+## Competence Level 2
+
+## Competence Level 3

@@ -12,3 +12,9 @@ permalink: /break-down-the-results/
 ## Outcome
 
 * [Impact Map](https://manual.advancedproductowner.com/impact-map/)
+
+## Competence Level 1
+
+## Competence Level 2
+
+## Competence Level 3

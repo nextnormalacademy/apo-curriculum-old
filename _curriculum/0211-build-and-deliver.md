@@ -11,3 +11,9 @@ permalink: /build-and-deliver/
 ## Outcome
 
 * [Product Increment](https://manual.advancedproductowner.com/product-increment/)
+
+## Competence Level 1
+
+## Competence Level 2
+
+## Competence Level 3

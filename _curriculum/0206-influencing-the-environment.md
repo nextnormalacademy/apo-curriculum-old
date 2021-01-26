@@ -13,3 +13,9 @@ permalink: /influencing-the-environment/
 ## Outcome
 
 * [Inception Deck](https://manual.advancedproductowner.com/inception-deck/)
+
+## Competence Level 1
+
+## Competence Level 2
+
+## Competence Level 3

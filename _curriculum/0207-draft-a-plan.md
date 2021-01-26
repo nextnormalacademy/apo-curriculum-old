@@ -11,3 +11,9 @@ permalink: /draft-a-plan/
 ## Outcome
 
 * [Roadmap](https://manual.advancedproductowner.com/roadmap/)
+
+## Competence Level 1
+
+## Competence Level 2
+
+## Competence Level 3

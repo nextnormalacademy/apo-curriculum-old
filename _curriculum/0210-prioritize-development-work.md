@@ -10,3 +10,9 @@ permalink: /prioritize-development-work/
 ## Outcome
 
 * [Product Backlog](https://manual.advancedproductowner.com/product-backlog/)
+
+## Competence Level 1
+
+## Competence Level 2
+
+## Competence Level 3
