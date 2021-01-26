@@ -75,6 +75,8 @@ This non-exhaustive out-of-scope list includes some topics that are related, but
 
 * Frameworks like Scrum, LeSS, SAFe
 * Business strategy and portfolio management
+* Business analysis, requirements engineer and requirements management
+* Usability engineering and user experience design
 * Development and engineering practices
 * Deep dives into single methodologies
 
