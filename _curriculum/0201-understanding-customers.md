@@ -14,8 +14,8 @@ permalink: /understanding-customers/
 
 ## Competence Level 1
 
-* {LO01-1-1} Participants are able to distinguish between customers and users in their work context
-* {LO01-1-2} Participants are able to describer typical groups of customers and users as personas
+* {LO01-1-1} Participants are able to distinguish between customers and users
+* {LO01-1-2} Participants are able to describe typical groups of customers and users as personas
 
 ## Competence Level 2
 
