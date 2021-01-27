@@ -21,18 +21,18 @@ permalink: /managing-feedback-loops/
 
 ## Competence Level 1
 
-* Participants know how to describe experiments and tests
-* Participants know the five core elements of feedback loops
+* {LO12-1-1} Participants know how to describe experiments and tests
+* {LO12-1-2} Participants know the five core elements of feedback loops
 
 ## Competence Level 2
 
-* Participants know how to distinguish between experiments, tests, and feedback loops
-* Participants know how to distinguish between latency and cadence in feedback loops
-* Participants are able to define experiments and tests in their working context
-* Participants are able do distinguish between noise and valuable feedback
+* {LO12-2-1} Participants know how to distinguish between experiments, tests, and feedback loops
+* {LO12-2-2} Participants know how to distinguish between latency and cadence in feedback loops
+* {LO12-2-3} Participants are able to define experiments and tests in their working context
+* {LO12-2-4} Participants are able do distinguish between noise and valuable feedback
 
 ## Competence Level 3
 
-* Participants are able to connect different tools to valuable feedback loops in their working context
-* Participants are able to describe feedback loops in their working context
-* Participants are able to apply feedback loops in their working context
+* {LO12-3-1} Participants are able to connect different tools to valuable feedback loops in their working context
+* {LO12-3-2} Participants are able to describe feedback loops in their working context
+* {LO12-3-3} Participants are able to apply feedback loops in their working context
