@@ -5,7 +5,6 @@ permalink: /understanding-customers/
 
 ## Related tools
 
-* [Persona](https://manual.advancedproductowner.com/persona/)
 * [Customers](https://manual.advancedproductowner.com/customers/)
 
 ## Outcome

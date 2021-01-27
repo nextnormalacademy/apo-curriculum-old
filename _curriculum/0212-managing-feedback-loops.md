@@ -13,6 +13,12 @@ permalink: /managing-feedback-loops/
 * [Story Map](https://manual.advancedproductowner.com/story-map/)
 * [Product Increment](https://manual.advancedproductowner.com/product-increment/)
 
+## Outcome
+
+* [Feedback Loops](https://manual.advancedproductowner.com/feedback-loops/)
+* Experiments and Tests
+
+
 ## Competence Level 1
 
 * Participants know how to describe experiments and tests
